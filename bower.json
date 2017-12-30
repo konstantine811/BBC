@@ -1,0 +1,21 @@
+{
+  "name": "one",
+  "description": "one",
+  "main": "gulpfile.js",
+  "authors": [
+    "konstantine811 <galystyan777@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-beta.3"
+  }
+}
